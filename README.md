@@ -1,1 +1,1 @@
-# This program writed in java
+# This program is written in java
