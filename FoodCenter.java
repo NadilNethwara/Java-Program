@@ -115,9 +115,7 @@ class food {
     }
 
     private void viewAllQueues() {
-        System.out.println("*****************");
-        System.out.println("* Cashiers      *");
-        System.out.println("*****************");
+        System.out.println("I'm learning java");
         displayQueues();
     }
 
